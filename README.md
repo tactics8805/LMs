@@ -26,5 +26,6 @@ Predicts a sequence of 2 words, using character-level tokenizers. I use "Alice's
 #### Dependencies
 Project Python dependencies:
 - torch==2.10.0
+Link to obtain texts: https://www.gutenberg.org/
 
 
