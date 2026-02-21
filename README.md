@@ -21,7 +21,7 @@ Run the Jupyter notebook (in VS Code or Jupyter):
 - Run the "PyTorch device check" cell to verify CUDA and basic tensor ops.
 
 ### Bigram Model Project
-### Overview
+#### Overview
 Predicts a sequence of 2 words, using character-level tokenizers. I use "Alice's Adventures in Wonderland" as my text/context for the model.
 #### Dependencies
 Project Python dependencies:
